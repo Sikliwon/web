@@ -1,13 +1,13 @@
 [
     {
         "name": "YouTube",
-        "color": "red",
+        "color": "#ff0000",
         "icon": "youtube",
         "url": "https://youtube.com/@setiabudichanel"
 	},
     {
         "name": "Whatsapp",
-        "color": "green",
+        "color": "#3ce15a",
         "icon": "whatsapp",
         "url": "https://wa.me/62xxxxxxxxxxx"
 	}
